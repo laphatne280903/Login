@@ -1,0 +1,11 @@
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.exe.config
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.exe
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\bin\Debug\FormDangNhap.pdb
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.AssemblyReference.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.SuggestedBindingRedirects.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.Form1.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.Properties.Resources.resources
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.GenerateResource.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.csproj.CoreCompileInputs.cache
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.exe
+D:\A. Study Document\KỸ THUẬT PHẦN MỀM - UEH\Phát triển phần mềm Desktop\ProjectDes\FormDangNhap\FormDangNhap\obj\Debug\FormDangNhap.pdb
